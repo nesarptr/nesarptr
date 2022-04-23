@@ -1,16 +1,38 @@
-### Hi there 👋
+# Hi there 👋
+## About Me
+This is **Nesar Ahmad Patwary**.
+- A self-taught developer,
+- passionate learner,
+- working hard to achieve the goal,
+- love coding,
+- spreading awareness,
+- and helping people.
 
-<!--
-**nesarptr/nesarptr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### What I am Currently Doing
+Currently,
+- I am trying to make contributions to the community and open-source projects,
+- solving problems in Leetcode and other platforms,
+- Practicing what I am learning,
+- learning Java and the Basics of Computer Science Subjects Such as Data Structures and Algorithms and some Mathematics that helps to solve problems.
 
-Here are some ideas to get you started:
+### My Learnings
+- Java.
+- git.
+- some Data Structures.
+- some Searching and Sorting Algorithms.
+- recursion.
+- bitwise operators.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My Contributions
+Till now I don't have any major contribution to mention here But I am trying to do so and also trying to get involved in the community to learn from them, help them, and share my knowledge with them.
+
+### My Experiences
+Till now I don't have any real-world experiences except for some assignments and problem-solving.
+
+### Communities I am part of
+- [Community Classroom](https://twitter.com/commclassroom)
+- [EddieHub Community](https://github.com/EddieHubCommunity)
+
+### Connect with me
+- [Twitter](https://twitter.com/nesarptr)
+- [Linkedin](https://www.linkedin.com/in/nesar-ahmad-patwary/)
