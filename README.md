@@ -24,7 +24,7 @@ Currently,
 - bitwise operators.
 
 ### My Contributions
-Till now I don't have any major contribution to mention here But I am trying to do so and also trying to get involved in the community to learn from them, help them, and share my knowledge with them.
+Till now I have some [contribution](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1020) But I don't have any major contrubution to mention here. I am trying to do so and also trying to get involved in the community to learn from them, help them, and share my knowledge with them.
 
 ### My Experiences
 Till now I don't have any real-world experiences except for some assignments and problem-solving.
