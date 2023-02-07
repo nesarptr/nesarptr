@@ -10,24 +10,14 @@ This is **Nesar Ahmad Patwary**.
 
 ### What I am Currently Doing
 Currently,
-- I am trying to make contributions to the community and open-source projects,
-- solving problems in Leetcode and other platforms,
-- Practicing what I am learning,
-- learning Java and the Basics of Computer Science Subjects Such as Data Structures and Algorithms and some Mathematics that helps to solve problems.
+- I am trying to apply what I am learning by writing [blog](http://devpedia.hashnode.dev/),
+- solving algorithmic problems in Leetcode and other platforms,
 
-### My Learnings
-- Java.
-- git.
-- some Data Structures.
-- some Searching and Sorting Algorithms.
-- recursion.
-- bitwise operators.
-
-### My Contributions
-Till now I have some [contribution](https://github.com/EddieHubCommunity/hacktoberfest-practice/pull/1020) But I don't have any major contrubution to mention here. I am trying to do so and also trying to get involved in the community to learn from them, help them, and share my knowledge with them.
+### My Learnings : 
+- I am skilled in a range of technologies including Java, Golang, JavaScript, Node.js, Express.js, React, HTML, CSS, Tailwind, Git, Github, MongoDB,  PostgreSQL, and Data Structures and Algorithms
 
 ### My Experiences
-Till now I don't have any real-world experiences except for some assignments and problem-solving.
+Till now I don't have any real-world experiences except for some web application projects and problem-solving.
 
 ### Communities I am part of
 - [Community Classroom](https://twitter.com/commclassroom)
